@@ -1,0 +1,10 @@
+version: "1.0"
+projectName: TestCommitsGithub1504Project
+runtimes:
+- runtimeAlias: Cloud Designtime
+  assets:
+  - name: commmits_wf
+    type: workflow
+    uid: fl76e81db0362f48b5ab39cfdf99e8de10
+    stepId: a0
+    reference: project.testcommitsgithub1504.integrations:gcd1504
